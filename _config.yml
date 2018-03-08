@@ -25,6 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Publications: 
+    - Researchgate: "https://www.researchgate.net/profile/Victor_Martinez9"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -58,7 +59,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
